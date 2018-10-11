@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Cia do Macarrao</string>
+    <string name="action_sair">Sair</string>
+    <string name="title_activity_cadastro_de_usuario">Cadastro de Usuário</string>
+    <string name="title_activity_main">Cia do Macarrão</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_User">Usuario</string>
+    <string name="nav_header_Email">Email do Usuario</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_Logout">Sair</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragmentMeusDados">Meus Dados</string>
+    <string name="cad_user">Cadastrar Usuário</string>
+    <string name="meus_dados">Meus Dados</string>
+    <string name="meus_pedidos">Pedidos</string>
+    <string name="atualizar_user">Atualizar cadastro</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="modelo_fragment">Fragmento Modelo</string>
+    <string name="txtEditar">Editar</string>
+    <string name="txtDeletar">Deletar</string>
+    <string name="Modelo">Modelo</string>
+    <string name="usuarios">Usuários</string>
+    <string name="enviar_msg">Enviar Mensagem</string>
+</resources>
